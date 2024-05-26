@@ -1,0 +1,55 @@
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\libdeepspeech.so
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\Dashboard UI.exe.config
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\Dashboard UI.exe
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\Dashboard UI.pdb
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\CSCore.dll
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\DeepSpeechClient.dll
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\Humanizer.dll
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\CSCore.xml
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\Humanizer.xml
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard_UI.MainForm.resources
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard_UI.EngineForm.resources
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard_UI.ModelForm.resources
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard_UI.Properties.Resources.resources
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.csproj.GenerateResource.cache
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.csproj.CoreCompileInputs.cache
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.csproj.CopyComplete
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.exe
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.pdb
+D:\FYP\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.csproj.AssemblyReference.cache
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\model\GBR_model.sav
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\model\linear_model.sav
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\model\pca.pkl
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\model\RFR_model.sav
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\model\std_scaler.pkl
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\model\SVR_model.sav
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\python.py
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\model\base_model.sav
+D:\FYP\Dashboard UI\Dashboard UI\bin\Debug\model\polynomial_model.sav
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\python.py
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\model\GBR_model.sav
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\model\pca.pkl
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\model\std_scaler.pkl
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\libdeepspeech.so
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\model\base_model.sav
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\model\linear_model.sav
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\model\polynomial_model.sav
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\model\RFR_model.sav
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\model\SVR_model.sav
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\Dashboard UI.exe.config
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\Dashboard UI.exe
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\Dashboard UI.pdb
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\CSCore.dll
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\DeepSpeechClient.dll
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\Humanizer.dll
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\CSCore.xml
+D:\FYP\Complete\Dashboard UI\Dashboard UI\bin\Debug\Humanizer.xml
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.csproj.AssemblyReference.cache
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard_UI.MainForm.resources
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard_UI.EngineForm.resources
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard_UI.ModelForm.resources
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard_UI.Properties.Resources.resources
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.csproj.GenerateResource.cache
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.csproj.CoreCompileInputs.cache
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.exe
+D:\FYP\Complete\Dashboard UI\Dashboard UI\obj\Debug\Dashboard UI.pdb
